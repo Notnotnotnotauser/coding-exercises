@@ -1,4 +1,4 @@
-# Week 1 Exercises
+# Week 1 Exercises (Due by 3/7 at 3PM)
 
 (all exercises are generated with AI, please don't get mad at me for this)
 
