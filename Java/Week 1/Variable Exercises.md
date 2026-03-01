@@ -19,8 +19,8 @@ Using the variables you created, perform the following operations and print the 
 ## Exercise 2: Student Grade Calculator
 Create a program that:
 1. Sets the person's name
-2. Sets three test scores
-3. Calculates and prints the average
+2. Sets 5 test scores
+3. Calculates and prints the person's name and the average grade and if it is passing (>=60%)
 
 ## Optional Challenge Exercise: Bank Account Growth Simulator
 
