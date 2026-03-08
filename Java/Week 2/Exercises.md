@@ -1,5 +1,5 @@
 # Week 2 Exercises
-#### Due at 3/21 @ 3PM
+#### Due at 3/21 by 3PM
 ## Project 1: Basic Calculator
 ### Overview
 In this project, you will build a basic calculator program in Java. The calculator will perform the following arithmetic operations:
