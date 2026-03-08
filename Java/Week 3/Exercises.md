@@ -1,4 +1,4 @@
-# Week 2 Exercises (Due by ? at 3PM)
+# Week ? Exercises (Due by ? at 3PM)
 ## Exercise 1: Modified FizzBuzz
 ### Requirements
 Make a program that outputs the first 1000 numbers with the following conditions:
